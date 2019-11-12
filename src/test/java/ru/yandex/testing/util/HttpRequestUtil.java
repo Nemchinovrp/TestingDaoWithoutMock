@@ -6,7 +6,7 @@ import org.springframework.http.MediaType;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 public final class HttpRequestUtil {
 

@@ -16,7 +16,7 @@ import ru.yandex.testing.jpa.entity.Account;
 import ru.yandex.testing.service.AccountService;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 @RestController
 @AllArgsConstructor

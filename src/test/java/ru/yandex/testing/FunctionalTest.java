@@ -10,7 +10,7 @@ import org.springframework.test.context.transaction.TransactionalTestExecutionLi
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @TestExecutionListeners({

@@ -9,7 +9,7 @@ import ru.yandex.testing.jpa.repository.AccountRepository;
 import java.util.Optional;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 @Service
 @AllArgsConstructor

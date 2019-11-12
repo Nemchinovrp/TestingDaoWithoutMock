@@ -15,7 +15,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 import org.springframework.web.util.ContentCachingRequestWrapper;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 @Slf4j
 @Component

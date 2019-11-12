@@ -5,7 +5,7 @@ import lombok.Value;
 import java.beans.ConstructorProperties;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 @Value
 public class TransferDTO {

@@ -8,7 +8,7 @@ import ru.yandex.testing.util.HttpRequestUtil;
 import ru.yandex.testing.util.JsonTestUtil;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 class AccountControllerTest extends FunctionalTest {
 

@@ -11,7 +11,7 @@ import ru.yandex.testing.jpa.entity.Account;
 import javax.persistence.LockModeType;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 @Repository
 public interface AccountRepository extends JpaRepository<Account, Integer> {

@@ -12,7 +12,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 @Data
 @NoArgsConstructor

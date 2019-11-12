@@ -7,7 +7,7 @@ import static org.hamcrest.Matchers.equalTo;
 import static org.junit.Assert.assertThat;
 
 /**
- * @author fbokovikov
+ * @author nemchinovrp
  */
 public final class JsonTestUtil {
 
